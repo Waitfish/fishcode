@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "fishcode",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "01d45269-a715-4f5e-a90c-ce1df8f9240a",
+      "database_name": "mydb"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
